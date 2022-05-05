@@ -1,1 +1,1 @@
-/home/dm/.zshrc
+../.zshrc
